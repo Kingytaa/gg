@@ -673,12 +673,12 @@ Library:SetDPIScale(85)
     
 if game.PlaceId == 6403373529 or game.PlaceId == 9015014224 or game.PlaceId == 11520107397 or game.PlaceId == 124596094333302 then
     local Window = Library:CreateWindow({
-        Title = "Slap Battles ð",
+        Title = "Slap Battles Nova",
         Center = true,
         AutoShow = true,
         Resizable = true,
         Footer = "Omega X Article Hub Version: 1.0.5",
-        Icon = 83462777349222,
+        Icon = 120226410203030,
         ShowCustomCursor = true,
         NotifySide = "Right",
         TabPadding = 2,
@@ -9184,7 +9184,7 @@ end
     end)
 elseif game.PlaceId == 11828384869 then
     local Window = Library:CreateWindow({
-        Title = "Omega X Article Hub - Maze ðï¸p",
+        Title = "Nova Hub - Nigger",
         Center = true,
         AutoShow = true,
         Resizable = true,
@@ -9252,7 +9252,7 @@ elseif game.PlaceId == 11828384869 then
     end)
 elseif game.PlaceId == 13833961666 then
     local Window = Library:CreateWindow({
-        Title = "Boss Bob ð¥",
+        Title = "kingIDK",
         Center = true,
         AutoShow = true,
         Resizable = true,
@@ -12048,9 +12048,7 @@ end)
 MenuGroup:AddButton("Unload", function()
     Library:Unload()
 end)
-CreditsGroup:AddLabel("AmongUs - Python / Dex / Script", true)
-CreditsGroup:AddLabel("Giang Hub - Script / Dex", true)
-CreditsGroup:AddLabel("Cao Mod - Script / Dex", true)
+CreditsGroup:AddLabel("kingIDK - made the script", true)
 
 Info:AddLabel("Counter [ " .. game:GetService("LocalizationService"):GetCountryRegionForPlayerAsync(game.Players.LocalPlayer) .. " ]", true)
 Info:AddLabel("Executor [ " .. identifyexecutor() .. " ]", true)
